@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+    <link rel="stylesheet" href="estilo.css">
+
+</head>
+
+
+
+<body>
+
+    <div class="contenedor">
+
+        <div class="menu">
+
+            <a href="#">Inicio</a>
+
+            <a href="#">Nosotros</a>
+
+            <a href="#">Perros</a>
+
+            <a href="#">Gatos</a>
+
+            <a href="#">Quienes Somos</a>
+
+        </div>
+
+        <div class="contenido">
+
+            <div class="seccion1">
+
+                <div class="texto">
+
+                    <h2>Lorem ipsum dolor</h2>
+
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor minima dolore debitis maxime
+
+                        similique voluptatum officiis atque consequatur repudiandae, sunt consectetur esse suscipit
+
+                        praesentium ad commodi molestiae dolorum unde rerum!</p>
+
+                </div>
+
+            </div>
+
+            <div class="seccion2">
+
+                <div class="texto">
+
+                    <h2>Lorem ipsum dolor</h2>
+
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor minima dolore debitis maxime
+
+                        similique voluptatum officiis atque consequatur repudiandae, sunt consectetur esse suscipit
+
+                        praesentium ad commodi molestiae dolorum unde rerum!</p>
+
+                </div>
+
+            </div>
+
+            <div class="seccion3">
+
+                <div class="texto">
+
+                    <h2>Lorem ipsum dolor</h2>
+
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor minima dolore debitis maxime
+
+                        similique voluptatum officiis atque consequatur repudiandae, sunt consectetur esse suscipit
+
+                        praesentium ad commodi molestiae dolorum unde rerum!</p>
+
+                </div>
+
+            </div>
+
+            <div class="seccion4">
+
+                <div class="texto">
+
+                    <h2>Lorem ipsum dolor</h2>
+
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor minima dolore debitis maxime
+
+                        similique voluptatum officiis atque consequatur repudiandae, sunt consectetur esse suscipit
+
+                        praesentium ad commodi molestiae dolorum unde rerum!</p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</body>
+
+
+
+</html>
